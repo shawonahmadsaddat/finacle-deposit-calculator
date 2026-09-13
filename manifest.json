@@ -1,0 +1,10 @@
+{
+  "name": "Finacle Deposit Calculator",
+  "short_name": "Deposit Calculator",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#0b5cab",
+  "description": "Finacle-compatible Deposit and DPS Calculator",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
