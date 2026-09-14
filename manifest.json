@@ -1,0 +1,17 @@
+{
+  "name": "Community Bank \u2014 Finacle Deposit Calculator",
+  "short_name": "Deposit Calculator",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#123b72",
+  "description": "Finacle-compatible Deposit and DPS Calculator for Community Bank Bangladesh PLC.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
